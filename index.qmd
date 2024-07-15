@@ -26,6 +26,8 @@ execute:
 
 "Brown bag" is a series of seminars focused on agriculture, food, and economics in low and middle income settings.
 
+![Farming in Mali ([source](https://github.com/Global-Health-Engineering/brown-bag/blob/main/presentations/2024-07-04-evidence-for-agroecological-intensification.pdf)).](img/farming-in-mali.png){width=100%}
+
 The name originates from the paper bag children used to bring to school with lunch inside. It suggests that the seminar takes place at lunch time, when audience is invited to bring their food and have lunch while listening to the speaker.
 
 # Rules {#sec-rules}
@@ -43,17 +45,112 @@ The name originates from the paper bag children used to bring to school with lun
 
 # Past seminars {#sec-past}
 
-| Date | Presenter | Title | Affiliation | Location |
-|-|-|-|-|-|
-| 2024 Jul 04 | Christian Grovermann | Evidence for agroecological intensification ([link](https://github.com/Global-Health-Engineering/brown-bag/blob/main/presentations/2024-07-04-evidence-for-agroecological-intensification.pdf)) | [FiBL](https://www.fibl.org/en/)| SOL B 4 |
-| 2024 Jun 06 | Philipa Birago Akuoko | Governing informality in public spaces and its implication for food supply ([link](https://github.com/Global-Health-Engineering/brown-bag/blob/main/presentations/2024-06-06-informality-public-space-and-food-supply.pdf)) | [University of Bern](https://www.geography.unibe.ch/about_us/the_institute/index_eng.html) | SOL B 4  |
-| 2024 May 02 | Celestina Heepen | Qualitative investigation of labour matching processes in the Swiss vine production | FSEP  | SOL B 4 |
-| 2024 Apr 04 | Rebecca Alcock | Topic: Rural health facility electrification with off-grid solar and micromobility networks | [University of Wisconsin-Madison](https://ghi.wisc.edu/) | CLD D 1 |
-| 2024 Mar 07 | Marie Sigrist | I have no choice, I have to pick this coffee to cope! Power asymmetries and strategies in the coffee sector in South of Minas Gerais, Brazil | AET | SOL B 4 |
-| 2024 Feb 01 | Moritz Egger | Uncovering sustainability perspectives: Exploring local definitions and criteria in cocoa, olive, and almond farming communities through a Photovoice action research process | AET-FIBL | SOL B 4 |
-| 2024 Jan 18 | Giorgia Giordani | NA | [University of Tuscia](https://www.unitus.it/en/) | SOL B 4 |
-| 2023 Dec 09 | Lin Boynton | Recap from INC-3: The United Nations negotiations for the Global Plastics Treaty | GHE | CLD D 1 |
-| 2022 Nov 11)| Mollie Chapman | Redesigning Direct Payments to Farmers in Switzerland | TdLab | CLD D 1 |
+::: columns
+::: {.column width="18%"}
+![](img/grovermann-christian.png){width=85%}
+:::
+::: {.column width="80%"}
+**2024 Jul 04**  
+SOL B 4  
+Christian Grovermann, [FiBL](https://www.fibl.org/en/)  
+*Evidence for agroecological intensification* ([slides](https://github.com/Global-Health-Engineering/brown-bag/blob/main/presentations/2024-07-04-evidence-for-agroecological-intensification.pdf))
+:::
+:::
+
+::: columns
+::: {.column width="18%"}
+![](img/akuoko-birago-philipa.png){width=85%}
+:::
+::: {.column width="80%"}
+**2024 Jun 06**  
+SOL B 4  
+Philipa Birago Akuoko, [University of Bern](https://www.geography.unibe.ch/about_us/the_institute/index_eng.html)  
+*Governing informality in public spaces and its implication for food supply* ([slides](https://github.com/Global-Health-Engineering/brown-bag/blob/main/presentations/2024-06-06-informality-public-space-and-food-supply.pdf))
+:::
+:::
+
+::: columns
+::: {.column width="18%"}
+![](img/celestina-heepen.png){width=85%}
+:::
+::: {.column width="80%"}
+**2024 May 02**  
+SOL B 4  
+Celestina Heepen, [FSEP](https://fsep.ethz.ch/) (ETHZ)  
+*Qualitative investigation of labour matching processes in the Swiss vine production*  
+:::
+:::
+
+::: columns
+::: {.column width="18%"}
+![](img/rebecca-alcock.png){width=85%}
+:::
+::: {.column width="80%"}
+**2024 Apr 04**  
+CLD D 1  
+Rebecca Alcock, [University of Wisconsin-Madison](https://ghi.wisc.edu/)  
+*Rural health facility electrification with off-grid solar and micromobility networks*  
+:::
+:::
+
+::: columns
+::: {.column width="18%"}
+![](img/marie-sigrist.png){width=85%}
+:::
+::: {.column width="80%"}
+**2024 Mar 07**  
+SOL B 4  
+Marie Sigrist, [AET](https://agroecological-transitions.ethz.ch/) (ETHZ)  
+*I have no choice, I have to pick this coffee to cope! Power asymmetries and strategies in the coffee sector in South of Minas Gerais, Brazil*  
+:::
+:::
+
+::: columns
+::: {.column width="18%"}
+![](img/moritz-egger.png){width=85%}
+:::
+::: {.column width="80%"}
+**2024 Feb 01**  
+SOL B 4  
+Moritz Egger, [FiBL](https://www.fibl.org/en/)   
+*Uncovering sustainability perspectives: Exploring local definitions and criteria in cocoa, olive, and almond farming communities through a Photovoice action research process*
+:::
+:::
+
+::: columns
+::: {.column width="18%"}
+![](img/giorgia-giordani.png){width=85%}
+:::
+::: {.column width="80%"}
+**2024 Jan 18**  
+SOL B 4  
+Giorgia Giordani, [University of Tuscia](https://www.unitus.it/en/) 
+:::
+:::
+
+::: columns
+::: {.column width="18%"}
+![](img/lin-boynton.png){width=85%}
+:::
+::: {.column width="80%"}
+**2023 Dec 09**  
+CLD D 1  
+Lin Boynton, [GHE](https://ghe.ethz.ch/) (ETHZ)  
+*Recap from INC-3: The United Nations negotiations for the Global Plastics Treaty*
+:::
+:::
+
+::: columns
+::: {.column width="18%"}
+![](img/mollie-chapman.png){width=85%}
+:::
+::: {.column width="80%"}
+**2023 Nov 11**  
+CLD D 1  
+Mollie Chapman, [TdLab](https://tdlab.usys.ethz.ch/) (ETHZ)  
+*Redesigning Direct Payments to Farmers in Switzerland*
+:::
+:::
 
 # Participating ETH groups
 
