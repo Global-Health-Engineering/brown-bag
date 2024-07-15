@@ -26,7 +26,7 @@ execute:
 
 "Brown bag" is a series of seminars focused on agriculture, food, and economics in low and middle income settings.
 
-![Farming in Mali ([source](https://github.com/Global-Health-Engineering/brown-bag/blob/main/presentations/2024-07-04-evidence-for-agroecological-intensification.pdf)).](img/farming-in-mali.png){width=100%}
+![Farming in Mali ([source](https://github.com/Global-Health-Engineering/brown-bag/blob/main/presentations/2024-07-04-evidence-for-agroecological-intensification.pdf)).](img/farming-mali.png){width=100%}
 
 The name originates from the paper bag children used to bring to school with lunch inside. It suggests that the seminar takes place at lunch time, when audience is invited to bring their food and have lunch while listening to the speaker.
 
