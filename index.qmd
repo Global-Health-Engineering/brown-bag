@@ -7,7 +7,7 @@ abstract: ""
 number-sections: true
   
 keywords: ""
-  
+
 format:
   html:
     code-fold: true
@@ -24,17 +24,18 @@ execute:
 
 # Information {#sec-info}
 
-"Brown bag" is a series of seminars focused on agriculture, food, and economics in low and middle income settings.
+"Brown bag" is a series of seminars focused on agriculture and health from a global perspective.
 
 ![Farming in Mali ([source](https://github.com/Global-Health-Engineering/brown-bag/blob/main/presentations/2024-07-04-evidence-for-agroecological-intensification.pdf)).](img/farming-mali.png){width=100%}
 
-The name originates from the paper bag children used to bring to school with lunch inside. It suggests that the seminar takes place at lunch time, when audience is invited to bring their food and have lunch while listening to the speaker.
+The name originates from the paper bag, children used to bring to school, with lunch inside. It suggests that the seminar takes place at lunch time, when audience is invited to bring their food and have lunch while listening to the speaker.
 
 # Rules {#sec-rules}
 
 1. Each seminar lasts 1 hour and starts at noon.
 2. Bring your lunch and consume it quietly, respecting the speaker.
-3. The seminar is discussion focused, we give enough time for questions, answers, and discussion on the topic. When you prepare a presentation, do not overload it with information or slides - leave room for everyone to ask questions and talk.
+3. The seminar is discussion focused: presenters should aim to give at least 20 minutes for discussion at the end, or even better, have a round of discussion every 3-4 slides.
+4. The target audience are PhD students. Professors and other senior staff should only ask questions after all PhD questions have been answered.
 
 # Upcoming seminars {#sec-upcoming}
 
