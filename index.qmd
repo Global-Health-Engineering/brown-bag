@@ -45,7 +45,7 @@ The name originates from the paper bag, children used to bring to school, with l
 :::
 ::: {.column width="80%"}
 **2024 Sep 5/12 (tbd)**  
-SOL D 1  
+CLD D 1  
 Jules Peter, [GHE](https://ghe.ethz.ch/) (ETHZ)  
 Inventing the myco-toilet
 :::
