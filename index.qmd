@@ -41,43 +41,49 @@ The name originates from the paper bag, children used to bring to school, with l
 
 ::: columns
 ::: {.column width="18%"}
-![](img/carlos-oya.png){width=85%}
+![](img/oya-carlos.png){width=85%}
 :::
 ::: {.column width="80%"}
 **2024 Sep 12**  
 SOL B 4  
-Carlos Oya, [SOAS University of London](https://www.soas.ac.uk/about/carlos-oya)  
-*Interrogating statistical categories for work in agriculture: informal, casual, decent, employment*  
+Carlos Oya, [SOAS University of London](https://www.soas.ac.uk/)  
+*Interrogating Statistical Categories for Work in Agriculture: Informal, Casual, Decent, Employment*  
 :::
 :::
 
 ::: columns
 ::: {.column width="18%"}
-![](img/jules-peter.png){width=85%}
+![](img/peter-jules.png){width=85%}
 :::
 ::: {.column width="80%"}
 **2024 Oct 03**  
 CLD D 1  
 Jules Peter, [GHE](https://ghe.ethz.ch/) (ETHZ)  
-*Inventing the myco-toilet*
+*Inventing the Myco-Toilet*
 :::
 :::
 
 ::: columns
 ::: {.column width="18%"}
+![](img/thom-braida.png){width=85%} 
 :::
 ::: {.column width="80%"}
 **2024 Nov 07**  
-TBD  
+SOL B 4  
+Braida Thom, [Environmental Systems Science](https://usys.ethz.ch/en/) (ETHZ)  
+*Different Perceptions about Environmental and Social Impacts in the Coffee Value Chain. Insights from Brazil, DRC, and Switzerland*
 :::
 :::
 
 ::: columns
 ::: {.column width="18%"}
+![](img/walder-colin.png){width=85%} 
 :::
 ::: {.column width="80%"}
 **2024 Dec 05**  
-TBD  
+CLD D 1  
+Colin Walder, [GHE](https://ghe.ethz.ch/) (ETHZ)  
+*Fertilizer Pilot in Malawi*
 :::
 :::
 
@@ -91,73 +97,73 @@ TBD
 **2024 Jul 04**  
 SOL B 4  
 Christian Grovermann, [FiBL](https://www.fibl.org/en/)  
-*Evidence for agroecological intensification* ([slides](https://github.com/Global-Health-Engineering/brown-bag/blob/main/presentations/2024-07-04-evidence-for-agroecological-intensification.pdf))
+*Evidence for Agroecological Intensification* ([slides](https://github.com/Global-Health-Engineering/brown-bag/blob/main/presentations/2024-07-04-evidence-for-agroecological-intensification.pdf))
 :::
 :::
 
 ::: columns
 ::: {.column width="18%"}
-![](img/akuoko-birago-philipa.png){width=85%}
+![](img/philipa-akuoko-birago.png){width=85%}
 :::
 ::: {.column width="80%"}
 **2024 Jun 06**  
 SOL B 4  
 Philipa Birago Akuoko, [University of Bern](https://www.geography.unibe.ch/about_us/the_institute/index_eng.html)  
-*Governing informality in public spaces and its implication for food supply* ([slides](https://github.com/Global-Health-Engineering/brown-bag/blob/main/presentations/2024-06-06-informality-public-space-and-food-supply.pdf))
+*Governing Informality in Public Spaces and its Implication for Food Supply* ([slides](https://github.com/Global-Health-Engineering/brown-bag/blob/main/presentations/2024-06-06-informality-public-space-and-food-supply.pdf))
 :::
 :::
 
 ::: columns
 ::: {.column width="18%"}
-![](img/celestina-heepen.png){width=85%}
+![](img/heepen-celestina.png){width=85%}
 :::
 ::: {.column width="80%"}
 **2024 May 02**  
 SOL B 4  
 Celestina Heepen, [FSEP](https://fsep.ethz.ch/) (ETHZ)  
-*Qualitative investigation of labour matching processes in the Swiss vine production*  
+*Qualitative Investigation of Labour Matching Processes in the Swiss Vine Production*  
 :::
 :::
 
 ::: columns
 ::: {.column width="18%"}
-![](img/rebecca-alcock.png){width=85%}
+![](img/alcock-rebecca.png){width=85%}
 :::
 ::: {.column width="80%"}
 **2024 Apr 04**  
 CLD D 1  
 Rebecca Alcock, [University of Wisconsin-Madison](https://ghi.wisc.edu/)  
-*Rural health facility electrification with off-grid solar and micromobility networks*  
+*Rural Health Facility Electrification with Off-Grid Solar and Micromobility Networks*  
 :::
 :::
 
 ::: columns
 ::: {.column width="18%"}
-![](img/marie-sigrist.png){width=85%}
+![](img/sigrist-marie.png){width=85%}
 :::
 ::: {.column width="80%"}
 **2024 Mar 07**  
 SOL B 4  
 Marie Sigrist, [AET](https://agroecological-transitions.ethz.ch/) (ETHZ)  
-*I have no choice, I have to pick this coffee to cope! Power asymmetries and strategies in the coffee sector in South of Minas Gerais, Brazil*  
+*I have no choice, I have to pick this coffee to cope! Power Asymmetries and Strategies in the Coffee Sector in South of Minas Gerais, Brazil*  
 :::
 :::
 
 ::: columns
 ::: {.column width="18%"}
-![](img/moritz-egger.png){width=85%}
+![](img/egger-moritz.png){width=85%}
 :::
 ::: {.column width="80%"}
 **2024 Feb 01**  
 SOL B 4  
 Moritz Egger, [FiBL](https://www.fibl.org/en/)   
-*Uncovering sustainability perspectives: Exploring local definitions and criteria in cocoa, olive, and almond farming communities through a Photovoice action research process*
+*Uncovering Sustainability Perspectives: Exploring Local Definitions and Criteria in Cocoa, Olive, and Almond Farming Communities through a Photovoice Action Research Process*
 :::
 :::
 
 ::: columns
 ::: {.column width="18%"}
-![](img/giorgia-giordani.png){width=85%}
+![](img/giordani-giorgia.png){width=85%}
 :::
 ::: {.column width="80%"}
 **2024 Jan 18**  
@@ -168,19 +174,19 @@ Giorgia Giordani, [University of Tuscia](https://www.unitus.it/en/)
 
 ::: columns
 ::: {.column width="18%"}
-![](img/lin-boynton.png){width=85%}
+![](img/boynton-lin.png){width=85%}
 :::
 ::: {.column width="80%"}
 **2023 Dec 09**  
 CLD D 1  
 Lin Boynton, [GHE](https://ghe.ethz.ch/) (ETHZ)  
-*Recap from INC-3: The United Nations negotiations for the Global Plastics Treaty*
+*Recap from INC-3: The United Nations Negotiations for the Global Plastics Treaty*
 :::
 :::
 
 ::: columns
 ::: {.column width="18%"}
-![](img/mollie-chapman.png){width=85%}
+![](img/chapman-mollie.png){width=85%}
 :::
 ::: {.column width="80%"}
 **2023 Nov 11**  
