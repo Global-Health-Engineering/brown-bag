@@ -1,6 +1,10 @@
 ---
 title: "Brown bag seminars"
 date: 2024-07-11
+author:
+  - name: Jakub Tkaczuk
+    orcid: 0000-0001-7997-9423
+    email: jtkaczuk@ethz.ch
 
 abstract: ""
 
@@ -41,30 +45,6 @@ The name originates from the paper bag, children used to bring to school, with l
 
 ::: columns
 ::: {.column width="18%"}
-![](img/oya-carlos.png){width=85%}
-:::
-::: {.column width="80%"}
-**2024 Sep 12**  
-SOL B 4  
-Carlos Oya, [SOAS University of London](https://www.soas.ac.uk/)  
-*Interrogating Statistical Categories for Work in Agriculture: Informal, Casual, Decent, Employment*  
-:::
-:::
-
-::: columns
-::: {.column width="18%"}
-![](img/peter-jules.png){width=85%}
-:::
-::: {.column width="80%"}
-**2024 Oct 03**  
-CLD D 1  
-Jules Peter, [GHE](https://ghe.ethz.ch/) (ETHZ)  
-*Inventing the Myco-Toilet*
-:::
-:::
-
-::: columns
-::: {.column width="18%"}
 ![](img/thom-braida.png){width=85%} 
 :::
 ::: {.column width="80%"}
@@ -87,7 +67,43 @@ Colin Walder, [GHE](https://ghe.ethz.ch/) (ETHZ)
 :::
 :::
 
+::: columns
+::: {.column width="18%"}
+![](img/pons-vignon-nicolas.png){width=85%} 
+:::
+::: {.column width="80%"}
+**2025 Feb 6**  
+SOL B 4  
+Nicolas Pons-Vignon, [SUPSI](https://www.supsi.ch/)  
+*Building Labour Power through Worker-driven Research? Reflections from the Care Sector*
+:::
+:::
+
 # Past seminars {#sec-past}
+
+::: columns
+::: {.column width="18%"}
+![](img/peter-jules.png){width=85%}
+:::
+::: {.column width="80%"}
+**2024 Oct 03**  
+CLD D 1  
+Jules Peter, [GHE](https://ghe.ethz.ch/) (ETHZ)  
+*Inventing the Myco-Toilet*
+:::
+:::
+
+::: columns
+::: {.column width="18%"}
+![](img/oya-carlos.png){width=85%}
+:::
+::: {.column width="80%"}
+**2024 Sep 12**  
+SOL B 4  
+Carlos Oya, [SOAS University of London](https://www.soas.ac.uk/)  
+*Interrogating Statistical Categories for Work in Agriculture: Informal, Casual, Decent, Employment*  
+:::
+:::
 
 ::: columns
 ::: {.column width="18%"}
