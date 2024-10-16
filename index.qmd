@@ -212,6 +212,18 @@ Mollie Chapman, [TdLab](https://tdlab.usys.ethz.ch/) (ETHZ)
 :::
 :::
 
+::: columns
+::: {.column width="18%"}
+![](img/illien-patrick.png){width=85%}
+:::
+::: {.column width="80%"}
+**2023 Nov 11**  
+SOL B 4  
+Patrick Illien, [FSEP](https://fsep.ethz.ch/) (ETHZ)  
+*Empowering informal workers through unionization: a transdisciplinary photovoice project*
+:::
+:::
+
 # Participating ETH groups
 
 1. [The Agroecological Transitions Group (AET)](https://agroecological-transitions.ethz.ch/)
