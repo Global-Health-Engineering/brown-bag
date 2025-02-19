@@ -43,6 +43,28 @@ The name originates from the paper bag, children used to bring to school, with l
 
 # Upcoming seminars {#sec-upcoming}
 
+::: {.column width="18%"}
+![](img/adeli-fatemeh.png){width=85%} 
+:::
+::: {.column width="80%"}
+**2025 Mar 6**  
+SOL B 4  
+Fatemeh Adelisardou, [The Agroecological Transitions Group](https://agroecological-transitions.ethz.ch/) (ETHZ)  
+*Improving Sustainability of Food Production Under Climate Change: Reinventing Agroecological Rice Farming in Iran*
+:::
+
+::: {.column width="18%"}
+![](img/occell-martina.png){width=85%} 
+:::
+::: {.column width="80%"}
+**2025 Apr 3**  
+SOL B 4  
+Martina Occelli, [Cornell University](https://cals.cornell.edu/)  
+*Local Ecological Knowledge: A Space for Interdisciplinarity and Inclusivity in crop Improvement*
+:::
+
+# Past seminars {#sec-past}
+
 ::: columns
 ::: {.column width="18%"}
 ![](img/pons-vignon-nicolas.png){width=85%} 
@@ -54,18 +76,6 @@ Nicolas Pons-Vignon, [SUPSI](https://www.supsi.ch/)
 *Building Labour Power through Worker-driven Research? Reflections from the Care Sector*
 :::
 :::
-
-::: {.column width="18%"}
-![](img/adeli-fatemeh.png){width=85%} 
-:::
-::: {.column width="80%"}
-**2025 Mar 6**  
-SOL B 4  
-Fatemeh Adelisardou, [The Agroecological Transitions Group](https://agroecological-transitions.ethz.ch/) (ETHZ)  
-*Improving Sustainability of Food Production Under Climate Change: Reinventing Agroecological Rice Farming in Iran*
-:::
-
-# Past seminars {#sec-past}
 
 ::: columns
 ::: {.column width="18%"}
