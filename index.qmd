@@ -44,14 +44,16 @@ The name originates from the paper bag, children used to bring to school, with l
 # Upcoming seminars {#sec-upcoming}
 
 ::: {.column width="18%"}
-![](img/adeli-fatemeh.png){width=85%} 
+![](img/vijay-saloni.png){width=85%} 
 :::
 ::: {.column width="80%"}
-**2025 Mar 6**  
+**2025 Jun 5**  
 SOL B 4  
-Fatemeh Adelisardou, [The Agroecological Transitions Group](https://agroecological-transitions.ethz.ch/) (ETHZ)  
-*Improving Sustainability of Food Production Under Climate Change: Reinventing Agroecological Rice Farming in Iran*
+Saloni Vijay, [Global Health Engineering (GHE)](https://ghe.ethz.ch/) (ETHZ)  
+*Challenges in Air Quality and Health Impact Monitoring from Open Waste Burning in Under-Monitored Regions*
 :::
+
+# Past seminars {#sec-past}
 
 ::: {.column width="18%"}
 ![](img/occell-martina.png){width=85%} 
@@ -63,7 +65,15 @@ Martina Occelli, [Cornell University](https://cals.cornell.edu/)
 *Local Ecological Knowledge: A Space for Interdisciplinarity and Inclusivity in crop Improvement*
 :::
 
-# Past seminars {#sec-past}
+::: {.column width="18%"}
+![](img/adeli-fatemeh.png){width=85%} 
+:::
+::: {.column width="80%"}
+**2025 Mar 6**  
+SOL B 4  
+Fatemeh Adelisardou, [The Agroecological Transitions Group (AET)](https://agroecological-transitions.ethz.ch/) (ETHZ)  
+*Improving Sustainability of Food Production Under Climate Change: Reinventing Agroecological Rice Farming in Iran*
+:::
 
 ::: columns
 ::: {.column width="18%"}
@@ -72,7 +82,7 @@ Martina Occelli, [Cornell University](https://cals.cornell.edu/)
 ::: {.column width="80%"}
 **2025 Feb 6**  
 SOL B 4  
-Nicolas Pons-Vignon, [SUPSI](https://www.supsi.ch/)  
+Nicolas Pons-Vignon, [University of Applied Sciences and Arts of Southern Switzerland (SUPSI)](https://www.supsi.ch/)  
 *Building Labour Power through Worker-driven Research? Reflections from the Care Sector*
 :::
 :::
@@ -96,7 +106,7 @@ Braida Thom, [Environmental Systems Science](https://usys.ethz.ch/en/) (ETHZ)
 ::: {.column width="80%"}
 **2024 Oct 03**  
 CLD D 1  
-Jules Peter, [GHE](https://ghe.ethz.ch/) (ETHZ)  
+Jules Peter, [Global Health Engineering (GHE)](https://ghe.ethz.ch/) (ETHZ)  
 *Inventing the Myco-Toilet*
 :::
 :::
@@ -120,7 +130,7 @@ Carlos Oya, [SOAS University of London](https://www.soas.ac.uk/)
 ::: {.column width="80%"}
 **2024 Jul 04**  
 SOL B 4  
-Christian Grovermann, [FiBL](https://www.fibl.org/en/)  
+Christian Grovermann, [Institute of Organic Agriculture (FiBL)](https://www.fibl.org/en/)  
 *Evidence for Agroecological Intensification* ([slides](https://github.com/Global-Health-Engineering/brown-bag/blob/main/presentations/2024-07-04-evidence-for-agroecological-intensification.pdf))
 :::
 :::
@@ -144,7 +154,7 @@ Philipa Birago Akuoko, [University of Bern](https://www.geography.unibe.ch/about
 ::: {.column width="80%"}
 **2024 May 02**  
 SOL B 4  
-Celestina Heepen, [FSEP](https://fsep.ethz.ch/) (ETHZ)  
+Celestina Heepen, [Food System Economics and Policy Group (FSEP)](https://fsep.ethz.ch/) (ETHZ)  
 *Qualitative Investigation of Labour Matching Processes in the Swiss Vine Production*  
 :::
 :::
@@ -168,7 +178,7 @@ Rebecca Alcock, [University of Wisconsin-Madison](https://ghi.wisc.edu/)
 ::: {.column width="80%"}
 **2024 Mar 07**  
 SOL B 4  
-Marie Sigrist, [AET](https://agroecological-transitions.ethz.ch/) (ETHZ)  
+Marie Sigrist, [The Agroecological Transitions Group (AET)](https://agroecological-transitions.ethz.ch/) (ETHZ)  
 *I have no choice, I have to pick this coffee to cope! Power Asymmetries and Strategies in the Coffee Sector in South of Minas Gerais, Brazil*  
 :::
 :::
@@ -180,7 +190,7 @@ Marie Sigrist, [AET](https://agroecological-transitions.ethz.ch/) (ETHZ)
 ::: {.column width="80%"}
 **2024 Feb 01**  
 SOL B 4  
-Moritz Egger, [FiBL](https://www.fibl.org/en/)   
+Moritz Egger, [Institute of Organic Agriculture (FiBL)](https://www.fibl.org/en/)   
 *Uncovering Sustainability Perspectives: Exploring Local Definitions and Criteria in Cocoa, Olive, and Almond Farming Communities through a Photovoice Action Research Process*
 :::
 :::
@@ -203,7 +213,7 @@ Giorgia Giordani, [University of Tuscia](https://www.unitus.it/en/)
 ::: {.column width="80%"}
 **2023 Dec 09**  
 CLD D 1  
-Lin Boynton, [GHE](https://ghe.ethz.ch/) (ETHZ)  
+Lin Boynton, [Global Health Engineering (GHE)](https://ghe.ethz.ch/) (ETHZ)  
 *Recap from INC-3: The United Nations Negotiations for the Global Plastics Treaty*
 :::
 :::
@@ -215,7 +225,7 @@ Lin Boynton, [GHE](https://ghe.ethz.ch/) (ETHZ)
 ::: {.column width="80%"}
 **2023 Nov 11**  
 CLD D 1  
-Mollie Chapman, [TdLab](https://tdlab.usys.ethz.ch/) (ETHZ)  
+Mollie Chapman, [Transdisciplinarity Lab (TdLab)](https://tdlab.usys.ethz.ch/) (ETHZ)  
 *Redesigning Direct Payments to Farmers in Switzerland*
 :::
 :::
@@ -227,7 +237,7 @@ Mollie Chapman, [TdLab](https://tdlab.usys.ethz.ch/) (ETHZ)
 ::: {.column width="80%"}
 **2023 Sep 07**  
 SOL B 4  
-Patrick Illien, [FSEP](https://fsep.ethz.ch/) (ETHZ)  
+Patrick Illien, [Food System Economics and Policy Group (FSEP)](https://fsep.ethz.ch/) (ETHZ)  
 *Empowering informal workers through unionization: a transdisciplinary photovoice project*
 :::
 :::
