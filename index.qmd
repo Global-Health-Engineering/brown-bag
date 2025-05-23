@@ -47,7 +47,7 @@ The name originates from the paper bag, children used to bring to school, with l
 ![](img/impaxio.png){width=85%} 
 :::
 ::: {.column width="80%"}
-**2025 Jul 8**  
+**2025 Jul 10**  
 SOL B 4  
 Michael Brander & Matthias Huss, [Impaxio](https://www.impaxio.com/)  
 *Using SMS and WhatsApp surveys to collect data in academic research projects - Showcasing Impaxio*
