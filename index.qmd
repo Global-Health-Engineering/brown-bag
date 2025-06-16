@@ -54,6 +54,18 @@ Michael Brander & Matthias Huss, [Impaxio](https://www.impaxio.com/)
 :::
 
 ::: {.column width="18%"}
+![](img/mueller-marc.png){width=85%} 
+:::
+::: {.column width="80%"}
+**2025 Aug 7**  
+SOL B 4  
+Marc Müller, [Eawag](https://www.eawag.ch/en/department/siam/main-focus/) and [University of Notre Dame,](https://reilly.nd.edu/)  
+*Did irrigation expansion improve household nutrition?*
+:::
+
+# Past seminars {#sec-past}
+
+::: {.column width="18%"}
 ![](img/vijay-saloni.png){width=85%} 
 :::
 ::: {.column width="80%"}
@@ -62,8 +74,6 @@ SOL B 4
 Saloni Vijay, [Global Health Engineering (GHE)](https://ghe.ethz.ch/), ETHZ  
 *Challenges in Air Quality and Health Impact Monitoring from Open Waste Burning in Under-Monitored Regions*
 :::
-
-# Past seminars {#sec-past}
 
 ::: {.column width="18%"}
 ![](img/occell-martina.png){width=85%} 
