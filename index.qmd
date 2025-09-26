@@ -44,6 +44,20 @@ The name originates from the paper bag, children used to bring to school, with l
 # Upcoming seminars {#sec-upcoming}
 
 ::: {.column width="18%"}
+![](img/casserly-padraic.png){width=85%} 
+:::
+::: {.column width="80%"}
+**2025 Oct 2**  
+SOL B 4  
+Padraic Casserly, [Global Health Engineering (GHE)](https://ghe.ethz.ch/), ETHZ  
+*Exploratory approaches to eliminate pathogens from a community sanitation system in Malawi*
+:::
+
+# Past seminars {#sec-past}
+
+<h2>2025</h2>
+
+::: {.column width="18%"}
 ![](img/fesenfeld-lukas.png){width=85%} 
 :::
 ::: {.column width="80%"}
@@ -52,8 +66,6 @@ SOL B 4
 [Lukas Fesenfeld](https://lukasfesenfeld.com/), [Energy and Technology Policy Group (ETP)](https://epg.ethz.ch/), ETHZ  
 *The Political Economy of Transforming Livestock Systems*
 :::
-
-# Past seminars {#sec-past}
 
 ::: {.column width="18%"}
 ![](img/mueller-marc.png){width=85%} 
@@ -116,6 +128,8 @@ Nicolas Pons-Vignon, [University of Applied Sciences and Arts of Southern Switze
 *Building Labour Power through Worker-driven Research? Reflections from the Care Sector*
 :::
 :::
+
+<h2>2024</h2>
 
 ::: columns
 ::: {.column width="18%"}
@@ -235,6 +249,8 @@ SOL B 4
 Giorgia Giordani, [University of Tuscia](https://www.unitus.it/en/) 
 :::
 :::
+
+<h2>2023</h2>
 
 ::: columns
 ::: {.column width="18%"}
