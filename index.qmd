@@ -44,6 +44,20 @@ The name originates from the paper bag, children used to bring to school, with l
 # Upcoming seminars {#sec-upcoming}
 
 ::: {.column width="18%"}
+![](img/otieno-wycliffe.png){width=85%} 
+:::
+::: {.column width="80%"}
+**2025 Dec 4**  
+SOL B 4  
+Wycliffe Otieno, [Food System Economics and Policy Group (FSEP)](https://fsep.ethz.ch/), ETHZ  
+*Pathways to scalable and sustainable success of Agrifood Tech startups for agrifood systems transformation in Africa*
+:::
+
+# Past seminars {#sec-past}
+
+<h2>2025</h2>
+
+::: {.column width="18%"}
 ![](img/casserly-padraic.png){width=85%} 
 :::
 ::: {.column width="80%"}
@@ -52,10 +66,6 @@ SOL B 4
 Padraic Casserly, [Global Health Engineering (GHE)](https://ghe.ethz.ch/), ETHZ  
 *Exploratory approaches to eliminate pathogens from a community sanitation system in Malawi*
 :::
-
-# Past seminars {#sec-past}
-
-<h2>2025</h2>
 
 ::: {.column width="18%"}
 ![](img/fesenfeld-lukas.png){width=85%} 
